@@ -1,0 +1,16 @@
+fileignoreconfig:
+- filename: src/main/resources/db/migration/V1.1__CreateUserTable.sql
+  checksum: 74d441e4c35de0ab0c4265473be6a24e084374454951ebddd57b43f1ba1fc73e
+- filename: src/main/resources/db/migration/V1.2__CreateProductTable.sql
+  checksum: 6c5740a509b441f5110bbc351f08a6fc9dc9d3ebe7c19b318ad904ecb48d46f8
+- filename: src/main/resources/db/migration/V1.3__RenameNameToFullNameInUserTable.sql
+  checksum: 74698f569e2f5b449d0ab0f2088d35b92cdad05d01fb15c367fcfed9f0b9d53f
+- filename: src/main/resources/db/migration/V1.4__AddPrimaryPhoneNumberToUserTable.sql
+  checksum: 28481f9c975f4621379433164e7f7139aad15ba4526bad4c8b2842f1ec78fd7d
+- filename: src/main/resources/db/migration/V1.5__CreateCartTable.sql
+  checksum: 55df4c27d308c874987a9cd7c0b71f6575d359af28d3f4b8b26871b5536c1750
+- filename: src/main/resources/db/migration/V1.6__CreateCartItemTable.sql
+  checksum: 2af67f8d8c08c1a29c5f6901eb4e016c59ecf4206fe8dc828bcb652225eb6624
+- filename: build.gradle
+  checksum: 042810adfd49f6aaa7c4c221eb66579408e0dd9d6d843722afc8a7b23321092e
+version: ""
